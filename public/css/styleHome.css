@@ -1,0 +1,57 @@
+/*css home*/
+.carousel-item{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#descricao{
+    /*border: solid 1px black;*/
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #AB035C;
+    color: #EFD2E1;
+    margin-bottom: 30px;
+}
+
+#textoDescricao{
+    text-align: justify;
+    /*border: solid 1px black;*/
+}
+
+#espacoLogo{
+    text-align: center;
+}
+
+#logo{
+    height: 200px;
+    width: 200px;
+    /*border: solid 1px black;*/
+}
+
+.planos{
+    text-align: center;
+    /*border: solid 1px black;*/;
+    margin-bottom: 40px;
+}
+
+#tituloPlano{
+    text-align: center;
+    background-color: #AB035C;
+    color: #EFD2E1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+
+}
+
+.tiposPlano{
+    border: solid 1px #AB035C;
+    padding-top: 150px;
+    padding-bottom: 150px
+}
+
+.btn{
+    background-color: #AB035C;
+    color: #EFD2E1;
+}
